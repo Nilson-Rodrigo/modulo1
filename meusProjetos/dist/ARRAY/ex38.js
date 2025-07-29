@@ -1,0 +1,2 @@
+"use strict";
+//Com let respostas = [true, false, true, false, true];, filtre apenas os valores true.
