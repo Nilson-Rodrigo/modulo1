@@ -22,20 +22,20 @@ Este repositório contém exercícios e exemplos desenvolvidos durante a discipl
 
 ## 🚀 Como executar
 
-Para executar os códigos deste repositório:
+Abra o terminal na pasta do projeto e execute os seguintes comandos:
 
-## 🚀 Como executar
+```bash
+npm install
+npx tsc
+node dist/nome-do-arquivo.js
 
-## 1.  Instale as dependências (caso haja)
+> ✅ Substitua `nome-do-arquivo.js` pelo nome do arquivo que você compilou.
+> 📁 O diretório `dist` é o local padrão onde os arquivos `.js` são gerados após a compilação.
 
-   bash
-   npm install
-
-## npm install
-## npx tsc
-## node dist/nome-do-arquivo.js
+Se quiser, posso também te ajudar a criar um script do tipo `npm run start`.
 
 
+```
 ## 💡 Objetivo
 Praticar lógica de programação e estruturar soluções de problemas utilizando conceitos fundamentais da programação com TypeScript.
 
