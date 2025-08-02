@@ -22,21 +22,23 @@ Este repositório contém exercícios e exemplos desenvolvidos durante a discipl
 
 ## 🚀 Como executar
 
-1. Instale as dependências (caso haja):
-   ```bash
+Para executar os códigos deste repositório:
+
+## 🚀 Como executar
+
+## 1.  Instale as dependências (caso haja)
+
+   bash
    npm install
 
-2. Compile os arquivos TypeScript:
-   bash
-tsc
-3. Execute com Node.js:
-   
-   node dist/arquivo.js
+## npm install
+## npx tsc
+## node dist/nome-do-arquivo.js
 
-   
-#💡 Objetivo
+
+## 💡 Objetivo
 Praticar lógica de programação e estruturar soluções de problemas utilizando conceitos fundamentais da programação com TypeScript.
 
-# ✍️ Autor
-Nilson
-📧 nilsonrodrigues818@gmail.com
+## ✍️ Autor 
+##  Nilson
+## 📧 nilsonrodrigues818@gmail.com
