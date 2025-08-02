@@ -36,9 +36,9 @@ Se quiser, posso também te ajudar a criar um script do tipo `npm run start`.
 
 
 ```
-## 💡 Objetivo
+💡 Objetivo
 Praticar lógica de programação e estruturar soluções de problemas utilizando conceitos fundamentais da programação com TypeScript.
 
 ## ✍️ Autor 
-##  Nilson
-## 📧 nilsonrodrigues818@gmail.com
+Nilson
+📧 nilsonrodrigues818@gmail.com
