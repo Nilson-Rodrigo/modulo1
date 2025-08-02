@@ -40,5 +40,7 @@ Se quiser, posso também te ajudar a criar um script do tipo `npm run start`.
 Praticar lógica de programação e estruturar soluções de problemas utilizando conceitos fundamentais da programação com TypeScript.
 
 ## ✍️ Autor
-## Nilson Rodrigo
-## 📧 nilsonrodrigues818@gmail.com
+
+Nilson  
+📧 [nilsonrodrigues818@gmail.com](mailto:nilsonrodrigues818@gmail.com)
+
