@@ -32,7 +32,6 @@ node dist/nome-do-arquivo.js
 > ✅ Substitua `nome-do-arquivo.js` pelo nome do arquivo que você compilou.
 > 📁 O diretório `dist` é o local padrão onde os arquivos `.js` são gerados após a compilação.
 
-Se quiser, posso também te ajudar a criar um script do tipo `npm run start`.
 
 
 ```
