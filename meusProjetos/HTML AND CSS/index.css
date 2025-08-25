@@ -1,9 +1,0 @@
-caixa {
-    position: static;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-
-
-    clip: rect(20px, 150px, 150px, 20px);
-}
